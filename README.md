@@ -30,8 +30,8 @@ Espero que encontre todas as informações que precisa. Se não, não hesite em 
 
 <h2 align='center'> O que tenho usado com mais frequência hoje em dia <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 <p align = 'center'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+<img width ='60px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png'>
+<img width ='60px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
