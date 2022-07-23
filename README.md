@@ -2,7 +2,7 @@
 Desenvolvedora web com foco em desenvolvimento front-end</h1>
 
 <div align="center">
-<img width="221px" height = "221px" src="https://maikelensalles.site/images/maikelensalles.png" alt="cover" />
+<img width="221px" height = "221px" src="https://maikelensalles.site/images/maikelen-salles.png" alt="cover" />
 </div>
 
 
