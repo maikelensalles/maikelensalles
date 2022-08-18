@@ -44,7 +44,7 @@ Desenvolvedora web com foco em desenvolvimento front-end</h1>
 <br>
 </p>
 
-<h2 align="center"> My GitHub Stats </h2>
+<h2 align="center"> Minhas estatísticas do GitHub </h2>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
