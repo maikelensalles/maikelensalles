@@ -6,9 +6,9 @@ Desenvolvedora web com foco em desenvolvimento front-end</h1>
 </div>
 
 
-Obrigada por reservar um tempo para ver meu perfil do GitHub :)
+<p align="center">Obrigada por reservar um tempo para ver meu perfil 😄</p>
 
-Espero que encontre todas as informações que precisa. Se não, não hesite em me enviar uma mensagem nos canais abaixo 👇
+<p align="center">Espero que encontre todas as informações que precisa. Se não, me envie uma mensagem nos canais abaixo 👇</p>
 
 <h2 align="center">Onde você pode me encontrar:</h2>
 <p align="center">
@@ -20,9 +20,9 @@ Espero que encontre todas as informações que precisa. Se não, não hesite em 
 
 <h2 align="center">Um pouco sobre mim</h2>
 
-- 👩‍💻 Atualmente trabalho como web designer e desenvolvedora web autônoma
+<p align="center">- 👩‍💻 Atualmente trabalho como web designer e desenvolvedora web autônoma</p>
 
-- 🤝 Estou procurando colaborar em projetos para tornar a web mais acessível
+<p align="center">- 🤝 Estou procurando colaborar em projetos para tornar a web mais acessível</p>
 
 
 
@@ -47,14 +47,12 @@ Espero que encontre todas as informações que precisa. Se não, não hesite em 
 <h2 align="center"> My GitHub Stats </h2>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=maikelensalles&count_private=true&show_icons=true&theme=radical" />
-</a>
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maikelensalles&count_private=true&show_icons=true&theme=radical" />
+  </a>
 
-<div align="center">
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&langs_count=8&theme=radical" />
-</a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&langs_count=8&theme=radical" />
+  </a>
 </div>
 
