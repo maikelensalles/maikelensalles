@@ -13,6 +13,7 @@ Desenvolvedora web com foco em desenvolvimento front-end</h1>
 <h2 align="center">Onde você pode me encontrar:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/maikelen-salles" target="blank"><img align="center" src="https://maikelensalles.site/images/linkedin%20(1).png" alt="maikelen-salles" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen" target="blank"><img align="center" src="https://maikelensalles.site/images/icone-Whatsapp.png" alt="maikelen-salles" height="40" width="40" /></a>
 <a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://maikelensalles.site/images/instagram.png" alt="maikelensalles" height="40" width="40" /></a>
 <a href='https://maikelensalles.github.io/site/'> <img width = '40px' align= 'center' src="https://maikelensalles.site/images/web.png"/></a>
 
@@ -30,16 +31,15 @@ Desenvolvedora web com foco em desenvolvimento front-end</h1>
 
 <h2 align='center'> O que tenho usado com mais frequência hoje em dia <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
 <p align = 'center'>
-<img width ='60px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png'>
-<img width ='60px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png'>
+<img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png'>
+<img width ='55px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+<img width ='55px' align='center' src ='https://maikelensalles.site/images/react.png'>
+<img width ='55px' align='center' src ='https://maikelensalles.site/images/Sass.png'>
+<img width ='55px' align='center' src ='https://maikelensalles.site/images/typescript.png'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'>
 <img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
-<img width ='40px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'>
 
 <br>
 </p>
