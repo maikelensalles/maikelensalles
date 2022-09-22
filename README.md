@@ -15,7 +15,7 @@ Desenvolvedora web com foco em desenvolvimento front-end</h1>
 <a href="https://www.linkedin.com/in/maikelen-salles" target="blank"><img align="center" src="https://maikelensalles.site/images/linkedin%20(1).png" alt="maikelen-salles" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen" target="blank"><img align="center" src="https://maikelensalles.site/images/icone-Whatsapp.png" alt="maikelen-salles" height="40" width="40" /></a>
 <a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://maikelensalles.site/images/instagram.png" alt="maikelensalles" height="40" width="40" /></a>
-<a href='https://maikelensalles.github.io/site/'> <img width = '40px' align= 'center' src="https://maikelensalles.site/images/web.png"/></a>
+<a href='https://maikelensalles-tech.web.app/'> <img width = '40px' align= 'center' src="https://maikelensalles.site/images/web.png"/></a>
 
 </p>
 
