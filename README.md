@@ -1,4 +1,4 @@
-<h1 align='center'> Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> 
+<h2 align='center'> Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> 
 Sou desenvolvedora front-end com foco em desenvolvimento full stack</h1>
 
 <div align="center">
