@@ -2,7 +2,7 @@
 Sou desenvolvedora front-end com foco em desenvolvimento full stack</h1>
 
 <div align="center">
-<img width="221px" height = "221px" src="https://maikelensalles.site/images/maikelen-salles.png" alt="cover" />
+<img width="221px" height = "221px" src="https://maikelensalles.site/images/maikelensallesdev.png" alt="cover" />
 </div>
 
 
