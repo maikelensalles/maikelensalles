@@ -1,5 +1,5 @@
-<h1 align='center'> Olá, eu sou Maikelen Salles <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> 
-Desenvolvedora front-end com foco em desenvolvimento full stack</h1>
+<h1 align='center'> Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> <br /> 
+Sou desenvolvedora front-end com foco em desenvolvimento full stack</h1>
 
 <div align="center">
 <img width="221px" height = "221px" src="https://maikelensalles.site/images/maikelen-salles.png" alt="cover" />
