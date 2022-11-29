@@ -1,11 +1,6 @@
 <h1 align='center'> Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px></h1>
 <h2 align='center'>Sou desenvolvedora front-end com foco em desenvolvimento full stack</h2>
 
-<div align="center">
-<img width="221px" height = "221px" src="https://maikelensalles.site/images/maikelensallesdev.png" alt="cover" />
-</div>
-
-
 <p align="center">Obrigada por reservar um tempo para ver meu perfil 😄</p>
 
 <p align="center">Espero que encontre todas as informações que precisa. Se não, me envie uma mensagem nos canais abaixo 👇</p>
