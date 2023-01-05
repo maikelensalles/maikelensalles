@@ -30,7 +30,6 @@
 <img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png'>
 <img width ='55px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='55px' align='center' src ='https://maikelensalles.site/images/react.png'>
-<img width ='55px' align='center' src ='https://maikelensalles.site/images/Sass.png'>
 <img width ='55px' align='center' src ='https://maikelensalles.site/images/typescript.png'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
