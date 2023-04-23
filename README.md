@@ -7,10 +7,10 @@
 
 <h2 align="center">Onde você pode me encontrar:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/maikelen-salles" target="blank"><img align="center" src="https://maikelensalles.site/images/linkedin%20(1).png" alt="maikelen-salles" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen" target="blank"><img align="center" src="https://maikelensalles.site/images/icone-Whatsapp.png" alt="maikelen-salles" height="40" width="40" /></a>
-<a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://maikelensalles.site/images/instagram.png" alt="maikelensalles" height="40" width="40" /></a>
-<a href='https://maikelensalles-tech.web.app/'> <img width = '40px' align= 'center' src="https://maikelensalles.site/images/web.png"/></a>
+<a href="https://www.linkedin.com/in/maikelen-salles" target="blank"><img align="center" src="https://maikelensalles.tech/images/linkedin%20(1).png" alt="maikelen-salles" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen" target="blank"><img align="center" src="https://maikelensalles.tech/images/icone-Whatsapp.png" alt="maikelen-salles" height="40" width="40" /></a>
+<a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://maikelensalles.tech/images/instagram.png" alt="maikelensalles" height="40" width="40" /></a>
+<a href='https://maikelensalles-tech.web.app/'> <img width = '40px' align= 'center' src="https://maikelensalles.tech/images/web.png"/></a>
 
 </p>
 
@@ -29,8 +29,8 @@
 <img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png'>
 <img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png'>
 <img width ='55px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='55px' align='center' src ='https://maikelensalles.site/images/react.png'>
-<img width ='55px' align='center' src ='https://maikelensalles.site/images/typescript.png'>
+<img width ='55px' align='center' src ='https://maikelensalles.tech/images/react.png'>
+<img width ='55px' align='center' src ='https://maikelensalles.tech/images/typescript.png'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
