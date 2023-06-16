@@ -1,5 +1,5 @@
 <h1 align='center'> Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px></h1>
-<h2 align='center'>Sou desenvolvedora front-end com foco em desenvolvimento full stack</h2>
+<h2 align='center'>Sou desenvolvedora front-end 👩🏽‍💻</h2>
 
 <p align="center">Obrigada por reservar um tempo para ver meu perfil 😄</p>
 
