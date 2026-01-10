@@ -29,8 +29,8 @@
 <img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png'>
 <img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png'>
 <img width ='55px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='55px' align='center' src ='https://icons8.com.br/icon/p57acgidi9bj/react-native'>
-<img width ='55px' align='center' src ='https://icons8.com.br/icon/wpZmKzk11AzJ/typescript'>
+<img width ='55px' align='center' src ='https://pt.wikipedia.org/wiki/React_%28JavaScript%29'>
+<img width ='55px' align='center' src ='https://en.wikipedia.org/wiki/TypeScript'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
