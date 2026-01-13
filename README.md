@@ -16,7 +16,7 @@
 
 <h2 align="center">Um pouco sobre mim</h2>
 
-<p align="center">- 👩‍💻 Atualmente trabalho como web designer e desenvolvedora front-end autônoma</p>
+<p align="center">- 👩‍💻 Atualmente trabalho como web designer e desenvolvedora front-end na EAD Aviação Civil</p>
 
 <p align="center">- 🤝 Estou procurando colaborar em projetos para tornar a web mais acessível</p>
 
@@ -38,15 +38,4 @@
 <br>
 </p>
 
-<h2 align="center"> Minhas estatísticas do GitHub </h2>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=maikelensalles&count_private=true&show_icons=true&theme=radical" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</div>
 
