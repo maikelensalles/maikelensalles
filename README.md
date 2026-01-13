@@ -16,7 +16,7 @@
 
 <h2 align="center">Um pouco sobre mim</h2>
 
-<p align="center">- 👩‍💻 Atualmente trabalho como web designer e desenvolvedora front-end na EAD Aviação Civil</p>
+<p align="center">- 👩‍💻 Atualmente trabalho como desenvolvedora front-end na EAD Aviação Civil</p>
 
 <p align="center">- 🤝 Estou procurando colaborar em projetos para tornar a web mais acessível</p>
 
