@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/maikelen-salles" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" alt="maikelen-salles" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/500px-WhatsApp.svg.png" alt="maikelen-salles" height="40" width="40" /></a>
-<a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://pt.wikipedia.org/wiki/Ficheiro:Instagram_icon.png" alt="maikelensalles" height="40" width="40" /></a>
+<a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="maikelensalles" height="40" width="40" /></a>
 <a href='https://maikelensalles-tech.web.app/'> <img width = '40px' align= 'center' src="https://maikelensalles.tech/images/web.png"/></a>
 
 </p>
