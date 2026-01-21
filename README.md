@@ -38,7 +38,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinapsvreis&theme=tokyonight&hide=java" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&theme=tokyonight&hide=java" alt="Top Langs" />
 </p>
 </p>
 
