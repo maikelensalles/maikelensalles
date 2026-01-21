@@ -36,6 +36,8 @@
 <img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
 
 <br>
+
+![Top Langs](https://camo.githubusercontent.com/e78edc9c0f5097d2b34b3038c657c3a44ccd1f9cdbee73525cfbdfddd52f44a9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6172696e6170737672656973267468656d653d746f6b796f6e6967687426686964653d6a617661)
 </p>
 
 
