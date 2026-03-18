@@ -10,15 +10,15 @@
 <a href="https://www.linkedin.com/in/maikelen-salles" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" alt="maikelen-salles" height="40" width="40" /></a>
 <a href="https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/500px-WhatsApp.svg.png" alt="maikelen-salles" height="40" width="40" /></a>
 <a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="maikelensalles" height="40" width="40" /></a>
-<a href='https://maikelensalles-tech.web.app/'> <img width = '40px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="maikelensalles" height="40" width="40" /></a>
+<a href='https://maikelen-dev.web.app/'> <img width = '40px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="maikelensalles" height="40" width="40" /></a>
 
 </p>
 
 <h2 align="center">Um pouco sobre mim</h2>
 
-<p align="center">- 👩‍💻 Atualmente trabalho como desenvolvedora front-end na EAD Aviação Civil</p>
+<p align="center">- 👩🏽‍💻 Atualmente trabalho como desenvolvedora na EAD Aviação Civil</p>
 
-<p align="center">- 🤝 Estou procurando colaborar em projetos para tornar a web mais acessível</p>
+<p align="center">- 📲 Estou procurando colaborar em projetos para tornar a web mais acessível</p>
 
 
 
