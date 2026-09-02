@@ -2,7 +2,7 @@
 
 # oi, eu sou a Maikelen 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=181023&center=true&vCenter=true&width=560&lines=Desenvolvedora+Full-Stack;HTML+%7C+CSS+%7C+SASS+%7C+Bootstrap;React+%7C+NextJS+%7C+Angular;NodeJS+%7C+TypeScript+%7C+PHP+%7C+Laravel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=AD46FF&center=true&vCenter=true&width=560&lines=Desenvolvedora+Full-Stack;HTML+%7C+CSS+%7C+SASS+%7C+Bootstrap;React+%7C+NextJS+%7C+Angular;NodeJS+%7C+TypeScript+%7C+PHP+%7C+Laravel" alt="Typing SVG" />
 
 </div>
 
