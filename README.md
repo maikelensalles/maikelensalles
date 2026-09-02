@@ -1,45 +1,72 @@
-<h1 align='center'> Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px></h1>
-<h2 align='center'>Sou desenvolvedora Full-Stack 👩🏽‍💻</h2>
+<div align="center">
 
-<p align="center">Obrigada por reservar um tempo para ver meu perfil 😄</p>
+# oi, eu sou a Maikelen 👋
 
-<p align="center">Espero que encontre todas as informações que precisa. Se não, me envie uma mensagem nos canais abaixo 👇</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=560&lines=Desenvolvedora+Full-Stack;HTML+%7C+CSS+%7C+SASS+%7C+Bootstrap;React+%7C+NextJS+%7C+Angular;NodeJS+%7C+TypeScript+%7C+PHP+%7C+Laravel" alt="Typing SVG" />
 
-<h2 align="center">Onde você pode me encontrar:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/maikelen-salles" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/960px-LinkedIn_icon.svg.png" alt="maikelen-salles" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/500px-WhatsApp.svg.png" alt="maikelen-salles" height="40" width="40" /></a>
-<a href="https://instagram.com/maikelensalles" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="maikelensalles" height="40" width="40" /></a>
-<a href='https://maikelen-dev.web.app/'> <img width = '40px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/5339/5339181.png" alt="maikelensalles" height="40" width="40" /></a>
+</div>
 
-</p>
+```bash
+$ whoami
+> maikelensalles — Desenvolvedora Full-Stack
+> Osório, Rio Grande do Sul, Brasil
 
-<h2 align="center">Um pouco sobre mim</h2>
+$ status --current
+> Atualmente na EAD Aviação Civil
+> Aberta a colaborar em projetos que tornem a web mais acessível
 
-<p align="center">- 👩🏽‍💻 Atualmente trabalho como desenvolvedora na EAD Aviação Civil</p>
+$ contato --list
+> linkedin   in/maikelen-salles
+> whatsapp   disponível no perfil
+> instagram  @maikelensalles
+> site       maikelen-dev.web.app
+```
 
-<p align="center">- 📲 Estou procurando colaborar em projetos para tornar a web mais acessível</p>
+<div align="center">
 
+### Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+</div>
 
+<div align="center">
 
-<h2 align='center'> O que tenho usado com mais frequência hoje em dia <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h2>
-<p align = 'center'>
-<img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png'>
-<img width ='65px' align='center' src ='https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png'>
-<img width ='55px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='55px' align='center' src ='https://raw.githubusercontent.com/nightwatchjs/nightwatch-plugin-react/main/.github/assets/react-logo.png'>
-<img width ='55px' align='center' src ='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg'>
-<img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='50px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'>
+### Conecte-se
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maikelen-salles)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maikelensalles)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen)
+[![Website](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maikelen-dev.web.app/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&theme=tokyonight&hide=java" alt="Top Langs" />
-</p>
-</p>
+</div>
 
+<div align="center">
 
+### Métricas
+
+<img src="https://github-readme-stats.vercel.app/api?username=maikelensalles&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maikelensalles&theme=react&hide_border=true&background=0D1117" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%" />
+
+</div>
+
+<div align="center">
+
+```bash
+$ echo "obrigada por passar por aqui ✨"
+```
+
+</div>
