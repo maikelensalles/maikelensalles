@@ -6,7 +6,7 @@
 
 ### `FULL-STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=580&lines=%3E+desenvolvedora+full-stack_;%3E+HTML+%7C+CSS+%7C+SASS+%7C+Bootstrap_;%3E+React+%7C+Next.js+%7C+Angular_;%3E+Node.js+%7C+TypeScript+%7C+PHP+%7C+Laravel_" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=580&lines=%3E+HTML+%7C+CSS+%7C+SASS+%7C+Bootstrap_;%3E+React+%7C+Next.js+%7C+Angular_;%3E+Node.js+%7C+TypeScript+%7C+PHP+%7C+Laravel_" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2EC4,100:0D0221&height=4&width=1000" />
 
