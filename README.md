@@ -1,77 +1,86 @@
 <div align="center">
 
-# oi, eu sou a Maikelen 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:FF2EC4,100:00F0FF&height=4&width=1000" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=AD46FF&center=true&vCenter=true&width=560&lines=Desenvolvedora+Full-Stack;HTML+%7C+CSS+%7C+SASS+%7C+Bootstrap;React+%7C+NextJS+%7C+Angular;NodeJS+%7C+TypeScript+%7C+PHP+%7C+Laravel" alt="Typing SVG" />
+# ❯ MAIKELEN.SALLES
+
+### `FULL-STACK DEVELOPER`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&width=580&lines=%3E+desenvolvedora+full-stack_;%3E+HTML+%7C+CSS+%7C+SASS+%7C+Bootstrap_;%3E+React+%7C+Next.js+%7C+Angular_;%3E+Node.js+%7C+TypeScript+%7C+PHP+%7C+Laravel_" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FF2EC4,100:0D0221&height=4&width=1000" />
 
 </div>
 
 ```bash
-$ whoami
-> maikelensalles — Desenvolvedora Full-Stack
-> Osório, Rio Grande do Sul, Brasil
+❯ whoami
+[OK]     maikelensalles :: Desenvolvedora Full-Stack
+[OK]     Osório, Rio Grande do Sul // BR
 
-$ status --current
-> Atualmente na EAD Aviação Civil
-> Aberta a colaborar em projetos que tornem a web mais acessível
+❯ status --current
+[ONLINE] EAD Aviação Civil
+[OPEN]   colaborações em projetos que tornem a web mais acessível
 
-$ contato --list
-> linkedin   in/maikelen-salles
-> whatsapp   disponível no perfil
-> instagram  @maikelensalles
-> site       maikelen-dev.web.app
+❯ contato --list
+[LINK]   linkedin    :: in/maikelen-salles
+[LINK]   whatsapp    :: disponível no perfil
+[LINK]   instagram   :: @maikelensalles
+[LINK]   site        :: maikelen-dev.web.app
 ```
 
 <div align="center">
 
-### Stack
+### `// 01 — STACK`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### Conecte-se
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maikelen-salles)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maikelensalles)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551980418444)
-[![Website](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maikelen-dev.web.app/)
+![HTML5](https://img.shields.io/badge/HTML5-●-FF2EC4?style=for-the-badge&logo=html5&logoColor=FF2EC4&labelColor=0D0221)
+![CSS3](https://img.shields.io/badge/CSS3-●-00F0FF?style=for-the-badge&logo=css3&logoColor=00F0FF&labelColor=0D0221)
+![SASS](https://img.shields.io/badge/SASS-●-FF2EC4?style=for-the-badge&logo=sass&logoColor=FF2EC4&labelColor=0D0221)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-●-00F0FF?style=for-the-badge&logo=bootstrap&logoColor=00F0FF&labelColor=0D0221)
+![React](https://img.shields.io/badge/REACT-●-FF2EC4?style=for-the-badge&logo=react&logoColor=FF2EC4&labelColor=0D0221)
+![Next.js](https://img.shields.io/badge/NEXT.JS-●-00F0FF?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF&labelColor=0D0221)
+![Angular](https://img.shields.io/badge/ANGULAR-●-FF2EC4?style=for-the-badge&logo=angular&logoColor=FF2EC4&labelColor=0D0221)
+![Node.js](https://img.shields.io/badge/NODE.JS-●-00F0FF?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF&labelColor=0D0221)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-●-FF2EC4?style=for-the-badge&logo=javascript&logoColor=FF2EC4&labelColor=0D0221)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-●-00F0FF?style=for-the-badge&logo=typescript&logoColor=00F0FF&labelColor=0D0221)
+![PHP](https://img.shields.io/badge/PHP-●-FF2EC4?style=for-the-badge&logo=php&logoColor=FF2EC4&labelColor=0D0221)
+![Laravel](https://img.shields.io/badge/LARAVEL-●-00F0FF?style=for-the-badge&logo=laravel&logoColor=00F0FF&labelColor=0D0221)
 
 </div>
 
 <div align="center">
 
-### Métricas
- 
-![Followers](https://img.shields.io/github/followers/maikelensalles?style=for-the-badge&logo=github&label=followers&color=0D1117&labelColor=0D1117)
-![Stars encaixe-retrato](https://img.shields.io/github/stars/maikelensalles/encaixe-retrato?style=for-the-badge&logo=github&label=%E2%AD%90%20encaixe-retrato&color=E3B341&labelColor=0D1117)
-![Stars UI-Dashboard](https://img.shields.io/github/stars/maikelensalles/UI-Dashboard?style=for-the-badge&logo=github&label=%E2%AD%90%20UI-Dashboard&color=E3B341&labelColor=0D1117)
- 
-### Repositórios em destaque
- 
-| Repositório | Linguagem | Estrelas | Forks |
+### `// 02 — CONECTE-SE`
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-00F0FF?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D0221)](https://linkedin.com/in/maikelen-salles)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-SEGUIR-FF2EC4?style=for-the-badge&logo=instagram&logoColor=FF2EC4&labelColor=0D0221)](https://instagram.com/maikelensalles)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHAMAR-00F0FF?style=for-the-badge&logo=whatsapp&logoColor=00F0FF&labelColor=0D0221)](https://wa.me/5551980418444)
+[![Website](https://img.shields.io/badge/PORTFÓLIO-VISITAR-FF2EC4?style=for-the-badge&logo=googlechrome&logoColor=FF2EC4&labelColor=0D0221)](https://maikelen-dev.web.app/)
+
+</div>
+
+<div align="center">
+
+### `// 03 — MÉTRICAS`
+
+![Followers](https://img.shields.io/github/followers/maikelensalles?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F0FF&labelColor=0D0221&logoColor=00F0FF)
+![Stars encaixe-retrato](https://img.shields.io/github/stars/maikelensalles/encaixe-retrato?style=for-the-badge&logo=github&label=ENCAIXE-RETRATO&color=FF2EC4&labelColor=0D0221&logoColor=FF2EC4)
+![Stars UI-Dashboard](https://img.shields.io/github/stars/maikelensalles/UI-Dashboard?style=for-the-badge&logo=github&label=UI-DASHBOARD&color=00F0FF&labelColor=0D0221&logoColor=00F0FF)
+
+### `// 04 — REPOSITÓRIOS EM DESTAQUE`
+
+| Repositório | Linguagem | ★ Estrelas | ⑂ Forks |
 |---|---|---|---|
-| [encaixe-retrato](https://github.com/maikelensalles/encaixe-retrato) | JavaScript | ⭐ 7 | 🍴 1 |
-| [UI-Dashboard](https://github.com/maikelensalles/UI-Dashboard) | SCSS | ⭐ 2 | — |
- 
+| [`encaixe-retrato`](https://github.com/maikelensalles/encaixe-retrato) | JavaScript | 7 | 1 |
+| [`UI-Dashboard`](https://github.com/maikelensalles/UI-Dashboard) | SCSS | 2 | — |
+
 </div>
+
 <div align="center">
-  
+
 ```bash
-$ echo "obrigada por passar por aqui ✨"
+❯ echo "obrigada por passar por aqui ✨"
 ```
- 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0221,50:FF2EC4,100:00F0FF&height=4&width=1000" />
+
 </div>
