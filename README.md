@@ -47,7 +47,7 @@ $ contato --list
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maikelen-salles)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maikelensalles)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551980418444&text=Ol%C3%A1%20Maikelen)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
 [![Website](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maikelen-dev.web.app/)
 
 </div>
@@ -55,18 +55,21 @@ $ contato --list
 <div align="center">
 
 ### Métricas
- 
+
 <img src="https://github-readme-stats.vercel.app/api?username=maikelensalles&show_icons=true&hide=issues,contribs&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
+
 ### Repositórios em destaque
- 
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelensalles&repo=encaixe-retrato&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelensalles&repo=UI-Dashboard&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
+
 </div>
+
 <div align="center">
+
 ```bash
 $ echo "obrigada por passar por aqui ✨"
 ```
- 
+
 </div>
- 
