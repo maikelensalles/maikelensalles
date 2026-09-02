@@ -56,15 +56,10 @@ $ contato --list
 
 ### Métricas
 
-<img src="https://github-readme-stats.vercel.app/api?username=maikelensalles&show_icons=true&hide=issues,contribs&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=maikelensalles&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maikelensalles&theme=react&hide_border=true&background=0D1117" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
-
-### Repositórios em destaque
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelensalles&repo=encaixe-retrato&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=maikelensalles&repo=UI-Dashboard&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%" />
 
 </div>
 
