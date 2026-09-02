@@ -55,18 +55,23 @@ $ contato --list
 <div align="center">
 
 ### Métricas
-
-<img src="https://github-readme-stats.vercel.app/api?username=maikelensalles&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maikelensalles&theme=react&hide_border=true&background=0D1117" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikelensalles&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="50%" />
-
+ 
+![Followers](https://img.shields.io/github/followers/maikelensalles?style=for-the-badge&logo=github&label=followers&color=0D1117&labelColor=0D1117)
+![Stars encaixe-retrato](https://img.shields.io/github/stars/maikelensalles/encaixe-retrato?style=for-the-badge&logo=github&label=%E2%AD%90%20encaixe-retrato&color=E3B341&labelColor=0D1117)
+![Stars UI-Dashboard](https://img.shields.io/github/stars/maikelensalles/UI-Dashboard?style=for-the-badge&logo=github&label=%E2%AD%90%20UI-Dashboard&color=E3B341&labelColor=0D1117)
+ 
+### Repositórios em destaque
+ 
+| Repositório | Linguagem | Estrelas | Forks |
+|---|---|---|---|
+| [encaixe-retrato](https://github.com/maikelensalles/encaixe-retrato) | JavaScript | ⭐ 7 | 🍴 1 |
+| [UI-Dashboard](https://github.com/maikelensalles/UI-Dashboard) | SCSS | ⭐ 2 | — |
+ 
 </div>
-
 <div align="center">
-
+  
 ```bash
 $ echo "obrigada por passar por aqui ✨"
 ```
-
+ 
 </div>
